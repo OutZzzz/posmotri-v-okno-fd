@@ -121,7 +121,7 @@ ol {
 .content__list {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 22px;
 }
 
 .content__list-item {
@@ -176,7 +176,7 @@ ol {
   line-height: 100%;
   text-transform: uppercase;     
   text-overflow: ellipsis;
-
+  padding-bottom: 3px;
   white-space: nowrap;
 }
 
