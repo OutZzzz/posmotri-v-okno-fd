@@ -116,7 +116,7 @@ ol {
 .content__list {
   display: flex;
   flex-direction: column;
-  gap: 22px;
+  gap: 23px;
 }
 
 .content__list-item {
@@ -154,7 +154,6 @@ ol {
 }
 
 .content__video-card-description {
-
   display: -webkit-box;          
   overflow: hidden;
   font-weight: 400;
@@ -165,7 +164,7 @@ ol {
 }
 
 .content__video-card-title {
-  padding-bottom: 3px;
+  padding-bottom: 4px;
   overflow: hidden;
   font-family: Oswald, sans-serif;
   font-size: 30px;
