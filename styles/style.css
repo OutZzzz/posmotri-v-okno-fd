@@ -100,10 +100,6 @@ ol {
   color: #545050;
 }
 
-.content__details {
-  max-width: 399px;
-}
-
 .content__list-container {
   position: relative;
   display: flex;
@@ -117,6 +113,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 23px;
+  min-width: 399px;
 }
 
 .content__list-item {
