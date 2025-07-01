@@ -249,7 +249,7 @@ ol {
   opacity: 1;
 }
 
-.search-form__label-text:hover {
+.search-form__label:hover:has(.search-form__pseudo-checkbox) {
   text-decoration: underline;
   cursor: pointer;
 }
