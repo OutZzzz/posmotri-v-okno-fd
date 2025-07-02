@@ -113,7 +113,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 23px;
-  min-width: 399px;
+  min-width: 395px;
 }
 
 .content__list-item {
