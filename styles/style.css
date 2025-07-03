@@ -112,12 +112,12 @@ ol {
 .content__list {
   display: flex;
   flex-direction: column;
-  gap: 23px;
-  min-width: 395px;
+  gap: 28px;
+  width: 396px;
 }
 
 .content__list-item {
-  padding: 3px 3px;
+  padding: 1px 2px;
 }
 
 .content__card-link {
